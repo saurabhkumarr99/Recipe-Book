@@ -89,6 +89,13 @@ Follow these instructions to get a copy of the project up and running on your lo
   <img src="https://github.com/saurabhkumarr99/Recipe-Book/blob/master/ScreenShots/7.Recepi%20Rating%20Sorted.png?raw=true" alt="Screenshot 1" width="300" />
 </p
 
+<p align="center">
+  <img src="https://github.com/saurabhkumarr99/Blogging-Platform/raw/master/ScreenShots/1.Home%20Page.png" alt="Screenshot 1" width="300" />
+  <img src="https://github.com/saurabhkumarr99/Blogging-Platform/raw/master/ScreenShots/2.Create%20Blog.png" alt="Screenshot 2" width="300" />
+  <img src="https://github.com/saurabhkumarr99/Blogging-Platform/raw/master/ScreenShots/3.BlogDetailsWithoutComments.png" alt="Screenshot 3" width="300" />
+  <img src="https://github.com/saurabhkumarr99/Blogging-Platform/raw/master/ScreenShots/4.b-Comments.png" alt="Screenshot 1" width="300" />
+  <img src="https://github.com/saurabhkumarr99/Blogging-Platform/raw/master/ScreenShots/4.BlogDetailsWithComments.png" alt="Screenshot 2" width="300" />
+</p
 
 ## Author
 
