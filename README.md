@@ -80,14 +80,15 @@ Follow these instructions to get a copy of the project up and running on your lo
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/saurabhkumarr99/Recipe-Book/blob/master/ScreenShots/1.Home%20Page.png" alt="Screenshot 1" width="300" />
-  <img src="https://github.com/saurabhkumarr99/Recipe-Book/blob/master/ScreenShots/2.Add%20Recepi%20Page.png" alt="Screenshot 2" width="300" />
-  <img src="https://github.com/saurabhkumarr99/Recipe-Book/blob/master/ScreenShots/3.New%20Recepi%20Added.png" alt="Screenshot 3" width="300" />
-  <img src="https://github.com/saurabhkumarr99/Recipe-Book/blob/master/ScreenShots/4.Update%20Recepi.png" alt="Screenshot 1" width="300" />
-  <img src="https://github.com/saurabhkumarr99/Recipe-Book/blob/master/ScreenShots/5.View%20Recepi.png" alt="Screenshot 1" width="300" />
-  <img src="https://github.com/saurabhkumarr99/Recipe-Book/blob/master/ScreenShots/6.Rate%20Recepe.png" alt="Screenshot 2" width="300" />
-  <img src="https://github.com/saurabhkumarr99/Recipe-Book/blob/master/ScreenShots/7.Recepi%20Rating%20Sorted.png" alt="Screenshot 1" width="300" />
+  <img src="https://github.com/saurabhkumarr99/Recipe-Book/blob/master/ScreenShots/1.Home%20Page.png?raw=true" alt="Screenshot 1" width="300" />
+  <img src="https://github.com/saurabhkumarr99/Recipe-Book/blob/master/ScreenShots/2.Add%20Recepi%20Page.png?raw=true" alt="Screenshot 2" width="300" />
+  <img src="https://github.com/saurabhkumarr99/Recipe-Book/blob/master/ScreenShots/3.New%20Recepi%20Added.png?raw=true" alt="Screenshot 3" width="300" />
+  <img src="https://github.com/saurabhkumarr99/Recipe-Book/blob/master/ScreenShots/4.Update%20Recepi.png?raw=true" alt="Screenshot 1" width="300" />
+  <img src="https://github.com/saurabhkumarr99/Recipe-Book/blob/master/ScreenShots/5.View%20Recepi.png?raw=true" alt="Screenshot 1" width="300" />
+  <img src="https://github.com/saurabhkumarr99/Recipe-Book/blob/master/ScreenShots/6.Rate%20Recepe.png?raw=true" alt="Screenshot 2" width="300" />
+  <img src="https://github.com/saurabhkumarr99/Recipe-Book/blob/master/ScreenShots/7.Recepi%20Rating%20Sorted.png?raw=true" alt="Screenshot 1" width="300" />
 </p
+
 
 ## Author
 
