@@ -1,0 +1,73 @@
+.navbar {
+    margin-top: 20px;
+}
+
+#recipe-list {
+    margin: 10px; /* Adjust the margin as needed */
+    padding:50px; /* Adjust the padding as needed */
+}
+
+.image-container{
+   margin: 90px auto;
+}
+
+.img-fluid{
+   height: 440px;
+   width: 750px;
+}
+
+.card-footer {
+    display: flex;
+    justify-content: center; /* Horizontally center the buttons */
+    align-items: center; /* Vertically center the buttons */
+    padding: 10px; /* Adjust padding as needed */
+    gap: 10px;
+}
+
+
+/* Style for average rating */
+.average-rating {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* Style for recipe cards */
+.recipe-card {
+    margin-bottom: 20px; /* Add some margin between recipe cards */
+}
+
+/* Style for recipe images on the left */
+.recipe-image {
+    float: left; /* Float the image to the left */
+    margin-right: 20px; /* Add some margin to the right of the image */
+    height: 190px;
+    width: 100%;
+}
+/* Style for recipe title in the center on the right */
+.recipe-title {
+    text-align: center; /* Center-align the title */
+    font-size: 18px; /* Adjust the font size as needed */
+    margin-top: 10px; /* Add margin to the top of the title */
+}
+
+/* Style for average rating */
+.average-rating {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+
+.recipe-details-container {
+    padding: 20px;
+}
+
+.rating-form {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
