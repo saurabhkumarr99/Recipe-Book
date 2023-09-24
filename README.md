@@ -7,6 +7,7 @@ Welcome to the Recipe Book project! This is a simple web application for managin
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Author](#Author)
 
 ## Features
